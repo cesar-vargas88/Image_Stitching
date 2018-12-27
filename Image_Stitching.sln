@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image_Stitching", "Image_Stitching\Image_Stitching.vcxproj", "{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Debug|x64.ActiveCfg = Debug|x64
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Debug|x64.Build.0 = Debug|x64
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Debug|x86.Build.0 = Debug|Win32
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Release|x64.ActiveCfg = Release|x64
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Release|x64.Build.0 = Release|x64
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Release|x86.ActiveCfg = Release|Win32
+		{3F12FFA4-EE08-47CC-BAA2-4D6F897152BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CA7536-3A22-4ACD-8658-6894D24BAC5D}
+	EndGlobalSection
+EndGlobal
